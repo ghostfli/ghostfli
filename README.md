@@ -1,7 +1,7 @@
 - Hi,
-- Im interested in machine learning
-- Im currently learning Python, C and Mathematics
-- Im looking to collaborate on projects that involve low level computer learning.
+- Im interested in Machine Learning, Software Devleopment/Engineering.
+- Im currently studying Computer Science at University of Oregon.
+
 
 
 <!---
