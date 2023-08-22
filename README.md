@@ -1,5 +1,5 @@
 - Hi,
-- Im interested in Machine Learning, Software Devleopment/Engineering.
+- Im interested in Machine Learning, Software Development/Engineering, and Computer Networking.
 - Im currently studying Computer Science at University of Oregon.
 
 
