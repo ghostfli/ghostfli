@@ -1,6 +1,7 @@
 - Hi,
-- Im interested in Machine Learning, Software Development/Engineering, and Computer Networking.
-- Im currently studying Computer Science at University of Oregon.
+- Im interested in Software Development/Engineering, Machine Learning, and Computer Network Systems.
+- I graduated from the University of Oregon with a B.S. in Computer Science.
+- Actively seeking a Software Engineer role to leverage programming skills.
 
 
 
