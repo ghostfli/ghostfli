@@ -1,4 +1,4 @@
-- Hi,
+- Hi my name is Geoffrey Brendel,
 - Im interested in Software Development/Engineering, Machine Learning, and Computer Network Systems.
 - I graduated from the University of Oregon with a B.S. in Computer Science.
 - Actively seeking a Software Engineer role to leverage programming skills.
