@@ -1,7 +1,7 @@
 - Hi my name is Geoffrey,
 - I am a entry level Software Developer.
 - I graduated from the University of Oregon with a B.S. in Computer Science.
-- I enjoy playing basketball, lifting weights, playing video games, learning about a variety of different subjects.
+- I enjoy playing basketball, lifting weights, playing video games and continuous learning.
 
 
 
