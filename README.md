@@ -1,7 +1,4 @@
-- Hi my name is Geoffrey,
-- I am a entry level Software Developer.
-- I graduated from the University of Oregon with a B.S. in Computer Science.
-- I enjoy playing basketball, lifting weights, playing video games and continuous learning.
+Software Engineer with an interest in financial/quantitative applications of the discipline. Attended the University of Oregon in 2020 and recieved my B.S. in CS in 2024. I then proceeded to become a Data/Math Analyst at a gaming regulatory compliance company (GLI). At this company I honed in on my software development skills by creating simulations in C++ to statistically validate client mathematical models. I used tools such as JIRA, Microsoft Visual Studio Integregated Development Environment paired with the development methodology of SCRUM to drive innovative solutions to analysis.
 
 
 
