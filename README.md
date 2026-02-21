@@ -1,6 +1,6 @@
 Geoffrey Brendel
 
-👋 Hi there! I'm Geoffrey, a passionate Software Engineer with a strong foundation in Computer Science, AI/ML, and DevOps. I enjoy building high-performance, reliable, and scalable systems. Whether it's designing low-level concurrency systems, developing web applications, or applying machine learning models, I love tackling complex challenges with well-designed solutions.
+Hi there! I'm Geoffrey, a passionate Software Engineer with a strong foundation in Computer Science, AI/ML, and DevOps. I enjoy building high-performance, reliable, and scalable systems. Whether it's designing low-level concurrency systems, developing web applications, or applying machine learning models, I love tackling complex challenges with well-designed solutions.
 
 📫 Reach Me:
 
