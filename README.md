@@ -41,48 +41,35 @@ Developed a modular, full-stack application for managing and serving time-series
 
 Designed a scalable, maintainable architecture with an emphasis on developer experience, and integrated real-time data handling and visualization.
 
-🔹 Machine Learning Projects (Ongoing)
-
-Technologies: Python, scikit-learn, TensorFlow
-
-Exploring machine learning algorithms and their applications in time-series prediction, anomaly detection, and NLP tasks.
-
-Actively working on developing custom models for real-world datasets, applying advanced techniques in data preprocessing, model training, and evaluation.
-
 🎓 Education
 
 University of Oregon — Eugene, Oregon
 Bachelor of Science in Computer Science — June 2024
 GPA: 3.62 | Major GPA: 3.75
 
-Relevant Coursework: Machine Learning, Operating Systems, Data Structures & Algorithms, Computer Architecture, Software Methodology
+Relevant Coursework: Operating Systems, Data Structures & Algorithms, Computer Architecture, Software Methodology
 
-📚 AI and Software Engineering Focus
+📚 Software Engineering Focus
 
-As an aspiring AI Engineer, I am particularly passionate about building reliable, deterministic systems that can scale with the growing demands of AI and machine learning applications. I have hands-on experience in both concurrent programming and high-performance computing — key elements for optimizing AI models and developing production-ready systems.
+As an aspiring Software Engineer, I am particularly passionate about building reliable, deterministic systems that can scale with the growing demands of AI and machine learning applications. I have hands-on experience in concurrent programming in c++ and developing production-ready systems.
 
 💬 What I'm Currently Working On
 
-Machine Learning & AI Projects: I'm currently expanding my knowledge of reinforcement learning, deep learning, and natural language processing (NLP) to contribute to cutting-edge AI development.
-
 System Automation: Building efficient pipelines for CI/CD, automated testing, and cloud-based deployment using AWS and Docker.
+
+Financial Modeling in C++: Building a C++ application that handles API requests to Alpha Vantage and processes them for a variety of different financial benchmark analysis.
 
 🚀 Future Goals
 
-Continue advancing my skills in machine learning and AI algorithms.
-
-Contribute to open-source projects that focus on AI applications and high-performance systems.
-
-Explore cloud-based AI solutions and deepen my expertise in scalable infrastructures for AI-driven applications.
+Continue advancing my skills in Software Engineering and programming.
 
 📄 Resume
 
-Feel free to view my full Resume
- for more details on my experience and skills.
+Feel free to view my full Resume for more details on my experience and skills.
 
 📜 Fun Fact
 
-I’m also passionate about gaming and enjoy solving complex problems through simulations and interactive environments. When I’m not coding, you can often find me diving into strategy games or exploring new tech stacks.
+I’m also passionate about gaming and enjoy solving complex problems through simulations and interactive environments. When I’m not coding, you can often find me diving into strategy games or staying up to date with my favorite sports teams #GODUCKS!.
 
 🌱 Let’s Connect!
 
